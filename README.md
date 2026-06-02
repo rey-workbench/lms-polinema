@@ -11,6 +11,7 @@ To use this extension, you must have the [Tampermonkey](https://www.tampermonkey
 ## Previews
 
 ### LMS Interface
+
 ![LMS View 1](assets/1.png)
 
 ![LMS View 2](assets/2.png)
@@ -18,11 +19,5 @@ To use this extension, you must have the [Tampermonkey](https://www.tampermonkey
 ![LMS View 3](assets/3.png)
 
 ### SIAKAD Interface
+
 ![SIAKAD View](assets/siakad.png)
-
-## Development
-
-This project is built using TypeScript and Vite.
-- `pnpm run dev` to start development.
-- `pnpm run build` to build the userscript into the `dist` directory.
-- `pnpm run deploy` to compile and deploy the `dist` contents to GitHub.
